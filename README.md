@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- Java Developer<br>- Ciência da computação - UCB</p>
+<p align="left">Atualmente, atuo como estagiário desenvolvedor fullstack, trabalhando no desenvolvimento e sustentação de sistemas com Java e Angular, incluindo integração de sistemas legados e criação de APIs RESTful.
+</p>
 
 ###
 
